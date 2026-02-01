@@ -4,7 +4,7 @@ This is a simple weather application built using **JavaScript**, **CSS**, and **
 
 ## Live Demo
 
-[View the Weather App](https://your-link-here.com)
+[View the Weather App]( https://jitendra708097.github.io/weather-app/)
 
 <!-- Replace 'https://your-link-here.com' with your actual app or documentation link. -->
 
